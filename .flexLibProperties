@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="org.juicekit.scale.LinearScale"/>
+    <classEntry path="org.juicekit.scale.QuantitativeScale"/>
+    <classEntry path="org.juicekit.scale.Scale"/>
+    <classEntry path="org.juicekit.encoder.Encoder"/>
+    <classEntry path="org.juicekit.encoder.ColorEncoder"/>
+    <classEntry path="org.juicekit.palette.Palette"/>
+    <classEntry path="org.juicekit.palette.SizePalette"/>
+    <classEntry path="org.juicekit.encoder.SizeEncoder"/>
+    <classEntry path="org.juicekit.palette.IPalette"/>
+    <classEntry path="org.juicekit.palette.ColorPalette"/>
+    <classEntry path="org.juicekit.encoder.Operator"/>
+    <classEntry path="org.juicekit.encoder.IOperator"/>
+    <classEntry path="org.juicekit.encoder.OperatorList"/>
+    <classEntry path="org.juicekit.palette.ShapePalette"/>
+    <classEntry path="org.juicekit.container.PaletteCanvas"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
