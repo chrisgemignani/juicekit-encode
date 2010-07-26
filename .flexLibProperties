@@ -16,6 +16,7 @@
     <classEntry path="org.juicekit.encoder.OperatorList"/>
     <classEntry path="org.juicekit.palette.ShapePalette"/>
     <classEntry path="org.juicekit.container.PaletteCanvas"/>
+    <classEntry path="org.juicekit.collections.JKArrayCollection"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>
